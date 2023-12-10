@@ -1,2 +1,4 @@
 # Ignorando carpeta del entorno virtual
 .env/
+#borrando la carpeta __pycache__
+__pycache__/

@@ -21,10 +21,6 @@ Para instalar y ejecutar la aplicación, sigue estos pasos:
 2. Instala las dependencias: `pip install -r requirements.txt`
 3. Ejecuta la aplicación: `python app.py`
 
-## Contribuciones
-
-Las contribuciones al proyecto son bienvenidas. Si deseas contribuir, por favor revisa las `guidelines` de contribución en el repositorio.
-
 Esto es solo para practicar lo aprendido con el lenguaje python y su framework flask.
 
 ## Licencia
